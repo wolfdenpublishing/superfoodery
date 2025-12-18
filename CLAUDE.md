@@ -23,6 +23,12 @@ This project manages a personal recipe collection focused on evidence-based "sup
   - Filename conventions
   - **Follow this exactly when generating HTML recipe files**
 
+- **IDEAS.md** - Collection of recipe ideas for future development. Contains:
+  - Ideas organized by category (Main Dishes, Desserts, etc.)
+  - Brief descriptions with key ingredients and notes
+  - **Reference this when exploring new recipe ideas or when user asks for suggestions**
+  - **Update this document** when new ideas are discussed or when ideas become recipes
+
 ### Website Files
 
 - **index.html** - Recipe index page listing all recipes with nutrition info and links
@@ -39,9 +45,11 @@ This project manages a personal recipe collection focused on evidence-based "sup
 
 ### 1. Recipe Development (Conversation Phase)
 - User describes a recipe idea or requests suggestions
+- **Check `IDEAS.md` first** for existing ideas that might fit the request
 - Reference `Superfood_Eating_Plan.md` to ensure ingredients align with the plan
 - Develop recipe with ingredients, method, and calorie calculations
 - Iterate based on user feedback until recipe is finalized
+- When an idea from IDEAS.md becomes a recipe, remove it from that document
 
 ### 2. HTML Generation
 When user says to create the HTML file (or similar):
