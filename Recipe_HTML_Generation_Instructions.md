@@ -308,10 +308,22 @@ For best AnyList parsing:
         .tags {
             margin: 15px 0;
         }
+        .back-link {
+            margin-bottom: 15px;
+        }
+        .back-link a {
+            color: #4a7c4e;
+            text-decoration: none;
+            font-size: 0.95em;
+        }
+        .back-link a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
     <article>
+        <nav class="back-link"><a href="index.html">&larr; Back to All Recipes</a></nav>
         <h1>[RECIPE NAME]</h1>
         
         <p>[DESCRIPTION]</p>
@@ -398,6 +410,7 @@ When generating an HTML recipe file, verify:
 - [ ] `datePublished` is set to current date
 - [ ] Keywords include "superfood" plus relevant tags
 - [ ] Notes section includes meal prep tips and calorie target guidance
+- [ ] Back-to-index navigation link is present (`<nav class="back-link">` after `<article>`)
 
 ---
 
