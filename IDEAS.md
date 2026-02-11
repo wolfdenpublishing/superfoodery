@@ -64,11 +64,6 @@ Mixed berries (strawberries, blueberries) baked with an oat-walnut-coconut oil c
 - **Key ingredients:** mixed berries, oats, walnuts, coconut oil
 - **Notes:** Oats provide beta-glucan fiber. Can be made in individual ramekins for portion control.
 
-### Baked Cinnamon Apples
-Apple halves baked with cinnamon, walnuts, and a touch of honey. Simple, warming, and naturally sweet.
-- **Key ingredients:** apples, cinnamon, walnuts, honey
-- **Notes:** Apples contain quercetin and fiber. Cinnamon supports blood sugar regulation. Optional habanero for a spicy-sweet variation.
-
 ### Dark Chocolate Avocado Mousse
 Ripe avocado blended with cocoa powder, a touch of maple syrup or honey, and vanilla. Surprisingly decadent with healthy fats.
 - **Key ingredients:** avocado, cocoa powder, honey/maple syrup, vanilla
@@ -97,4 +92,4 @@ Medjool dates stuffed with almond or walnut butter, topped with a walnut piece, 
 
 ---
 
-*Last updated: December 2025*
+*Last updated: February 2026*
